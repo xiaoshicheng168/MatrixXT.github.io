@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Archive"
-description: "你看到的，是我练习千字文的所有文章"
+description: "孤独的时候就来写点 "
 header-img: "img/orange.jpg"
+
 ---
 
 

@@ -1,19 +1,18 @@
-# Site settings
-title: 读立写生
+﻿# Site settings
+title: Koala工作室
 header-img: "img/Xacebook.jpg"
 tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+description: "MatrixXT|写作·安放心灵"  
 baseurl: ""
-url: "http://www.cnfeat.com"  
 
 # About/contact
 owner: 
-  name: " CNFeat"
-  email: CnFeat@gmail.com
+  name: " MatrixXT"
+  email: 164640966@qq.com
   bio: "写就是写的报酬"
 
 # Data
-gavatar: http://openmindclub.qiniudn.com/omt/GavatarCNFeat.png
+gavatar: http://wx4.sinaimg.cn/thumb300/006kKN9zly1fd45mnl0bsj31kw1z44i9.jpg
 favicon: img/favicon.png
 
 douban_username:  cnfeat
@@ -42,7 +41,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "CNFeat"
+      author: "MatrixXT"
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
