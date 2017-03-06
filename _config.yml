@@ -9,18 +9,16 @@ baseurl: ""
 owner: 
   name: " MatrixXT"
   email: 164640966@qq.com
-  bio: "写就是写的报酬"
+  bio: "写作·安放心灵"
 
 # Data
 gavatar: http://wx4.sinaimg.cn/thumb300/006kKN9zly1fd45mnl0bsj31kw1z44i9.jpg
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+douban_username:  Doug
+github_username: MatrixXT
+facebook_username: Ting Xie
+zhihu_username: Doug
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -48,9 +46,9 @@ defaults:
 comments :
   provider : disqus
   duoshuo :
-    short_name : cnfeat
+    short_name : MatrixXT
   disqus :
-      short_name : cnfeat
+      short_name : MatrixXT
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-80884545-1
