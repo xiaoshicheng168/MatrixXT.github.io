@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "生活中很多东西值得玩味"  
+description: "生活中很多东西都值得玩味"  
 header-img: "img/Red-Brown.jpg"  
 ---
 

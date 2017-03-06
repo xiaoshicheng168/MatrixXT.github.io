@@ -11,7 +11,8 @@ header-img: "img/green.jpg"
 
 - [博客：Koala工作室](https://matrixxt.github.io/)
 - [GitHub@MatrixXT](https://github.com/matrixxt)
-- 公众号：DougXT
+- [Facebook: Ting Xie](https://www.facebook.com/profile.php?id=100012833825444)
+- 公众号: DougXT
 
 
 <center>
