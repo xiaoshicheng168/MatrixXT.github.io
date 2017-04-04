@@ -1,8 +1,9 @@
 ---
 layout: page
 title: "Archive"
-description: "孤独的时候就来写点 "
-header-img: "img/orange.jpg"
+description: "孤独的时候就来写点"
+header-img: "img/wheat.jpg"
+
 
 ---
 
