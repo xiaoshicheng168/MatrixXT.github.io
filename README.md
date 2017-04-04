@@ -1,3 +1,9 @@
 ## 说明
 
 此博客 fork 自 [cnfeat](https://github.com/cnfeat/cnfeat.github.io)，感谢。
+* 增加了用MathJax在浏览器端渲染LaTeX语句的功能，方法是在layout文件夹里的default.html开头增加了解析MathJax的代码段：
+```
+<script type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+```
