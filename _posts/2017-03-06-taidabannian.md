@@ -69,6 +69,3 @@ description:
 
 ![](http://wx1.sinaimg.cn/mw1024/006kKN9zly1fdczejguyng30rs0ij4qq.gif)
 
-ChangeLog
-
-> 2017-03-06 初稿
