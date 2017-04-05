@@ -19,5 +19,5 @@ header-img: "img/StockSnap.jpg"
 
 - 微信公众号: DougXT
 
-  ![](http://wx4.sinaimg.cn/thumb300/006kKN9zly1fd3wd36orpj30by0byt9j.jpg)
+   ![](http://wx4.sinaimg.cn/thumb300/006kKN9zly1fd3wd36orpj30by0byt9j.jpg)
 
