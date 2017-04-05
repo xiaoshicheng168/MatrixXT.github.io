@@ -3,7 +3,6 @@ layout: page
 title: "About"
 description: "玩味兴趣，安放心灵。 "
 header-img: "img/StockSnap.jpg"
-
 ---
 
 ### 我是MatrixXT。
@@ -15,6 +14,8 @@ header-img: "img/StockSnap.jpg"
 - [GitHub@MatrixXT](https://github.com/matrixxt)
 
 - [Facebook: Ting Xie](https://www.facebook.com/profile.php?id=100012833825444)
+
+- Email：dougxie@foxmail.com
 
 - 微信公众号: DougXT
 
