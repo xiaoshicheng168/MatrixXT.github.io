@@ -7,3 +7,4 @@
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
 ```
+* 洗去原博主的信息，增添自己的信息，调整页面的视觉效果
