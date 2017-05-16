@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
 
 <!-- Post Header -->
 <style type="text/css">
@@ -83,16 +94,6 @@ layout: default
 
 <!-- disqus end -->
 
-<!-- mathjax config similar to math.stackexchange -->
-
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Config({
-    tex2jax: {
-      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-      processEscapes: true
-    }
-  });
-</script>
 
 
 <!-- anchor-js, Doc:http://bryanbraun.github.io/anchorjs/ -->

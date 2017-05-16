@@ -5,7 +5,7 @@ description: "玩味兴趣，安放心灵。 "
 header-img: "img/StockSnap.jpg"
 ---
 
-### 我是MatrixXT。
+### 我是MatrixXT，这是我的个人博客，评论需翻墙。
 
 ### 联系
 
