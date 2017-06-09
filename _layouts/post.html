@@ -23,13 +23,6 @@ layout: default
                     <h2 class="subheading">{{ page.subtitle }}</h2>
                     {% endif %}
                     <span class="meta">Posted on {{ page.date | date: "%y-%d-%m" }}</span>
-					{% if site.leancloud.enable %}
-						<span id="{{ page.url }}" class="leancloud_visitors" data-flag-title="{{ page.title }}">
-						<span class="post-meta-divider">|</span>
-						<span class="post-meta-item-text"> Hits:  </span>
-						<span class="leancloud-visitors-count"></span>
-						</span>
-					{% endif %}
 					<span id="busuanzi_container_site_pv">
 						view:<span id="busuanzi_value_site_pv"></span>
 					</span>
