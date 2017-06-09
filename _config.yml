@@ -57,9 +57,3 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
-
-# leancloud
-leancloud:
-  enable: true
-  app_id: UB3NTfGgpXVQRmwkFqrg69w0-gzGzoHsz
-  app_key: ldmWTHOPK4mRJVdzRP089oMb
