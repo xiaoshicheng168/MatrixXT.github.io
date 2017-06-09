@@ -7,6 +7,9 @@ tags: [学习, 读书]
 description: 
 ---
 
+* 目录
+{:toc}
+
 > 《为什么学生不喜欢上学?》读书笔记
 
 [《为什么学生不喜欢上学?》 ](https://book.douban.com/subject/4864832/)是本写给中小学教师的教学指南，同时也是一部很好的成人自学宝典。全书共九章，每章都用认知科学的研究成果回答了一个常见学习疑问，颠覆读者的观念。在下反复读了两遍，深受启发，参考阳老的解读：[我们为什么害怕学习？ - 阳志平的网志](http://www.yangzhiping.com/psy/why-do-not-students-like-school.html)，写下此篇读书笔记。
