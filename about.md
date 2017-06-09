@@ -5,11 +5,13 @@ description: "玩味兴趣，安放心灵。 "
 header-img: "img/StockSnap.jpg"
 ---
 
-### 大家好，我是MatrixXT。 这是我的个人博客，主要记录个人的学习思考心得。
+#### 大家好，我是MatrixXT
 
-### 联系
+#### 这是我的个人博客，主要记录个人的所学所思
 
-- [Blog：Koala工作室](https://matrixxt.github.io/)
+#### 联系方式：
+
+- [Blog：matrixxt.com](https://matrixxt.github.io/)
 
 - [GitHub@MatrixXT](https://github.com/matrixxt)
 
