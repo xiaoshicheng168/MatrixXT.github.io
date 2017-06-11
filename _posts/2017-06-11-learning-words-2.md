@@ -8,7 +8,8 @@ description:
 ---
 
 * 目录
-{:toc}
+  {:toc}
+
 ## 第二阶段：2000词&动词
 
 英语对话中基本上只有2000个常用单词，用好这2000个单词**要建立它们与概念的直接联系**。方法是多听，先从慢速、标准音听起，再反复听，各种听。[VOA - Voice of America English News](http://learningenglish.voanews.com/)
@@ -126,6 +127,13 @@ description:
 ### 联想法和关键词法
 
 联想法（通过想象图像来实现联系）除非某些单词很适合，否则慎用；关键词法（通过语言来实现联系）不要用。
+
+更多阅读：
+
+* [学单词（一） - Koala工作室](https://matrixxt.com/learning/2017/06/11/learning-words-1/)
+* [学单词（二） - Koala工作室](https://matrixxt.com/learning/2017/06/11/learning-words-2/)
+* [学单词（三） - Koala工作室](https://matrixxt.com/learning/2017/06/11/learning-words-3/)
+* [学单词（四） - Koala工作室](https://matrixxt.com/learning/2017/06/11/learning-words-4/)
 
 ChangeLog
 
