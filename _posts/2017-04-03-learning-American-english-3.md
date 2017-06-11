@@ -8,7 +8,7 @@ description:
 ---
 
 * 目录
-  {:toc}
+{:toc}
 
 ## 音乐的音
 
