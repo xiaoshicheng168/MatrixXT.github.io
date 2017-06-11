@@ -2,7 +2,7 @@
 layout: post
 title: 我们为什么不喜欢学习
 date: 2017-06-06
-categories: blog
+categories: reading
 tags: [学习, 读书]
 description: 
 ---

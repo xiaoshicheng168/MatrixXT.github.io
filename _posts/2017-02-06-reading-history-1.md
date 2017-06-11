@@ -2,7 +2,7 @@
 layout: post
 title: 一个人的阅读史（一）
 date: 2017-02-06
-categories: blog
+categories: personal
 tags: [成长, 读书]
 description: 
 ---

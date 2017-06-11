@@ -2,7 +2,7 @@
 layout: post
 title: 台大半年
 date: 2017-03-06
-categories: blog
+categories: personal
 tags: [生活]
 description: 
 ---
