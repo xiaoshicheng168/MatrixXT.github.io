@@ -8,7 +8,7 @@ description:
 ---
 
 * 目录
-{:toc}
+  {:toc}
 
 ## 音乐的音
 
@@ -78,9 +78,9 @@ description:
 
 更多阅读：
 
-*　[学美语（一） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-1/)
-*　[学美语（二） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-２/)
-*　[学美语（三） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-３/)
+* [学美语（一） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-1/)
+* [学美语（二） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-２/)
+* [学美语（三） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-３/)
 
 ChangeLog
 

@@ -8,7 +8,7 @@ description:
 ---
 
 * 目录
-{:toc}
+  {:toc}
 
 回想初学英语那会儿，老师用方言版的英语领着读”Good morning“，我就在课本上记下“gu de mo ning"，还暗自庆幸找到了一个好方法。这个记发音的方法一直沿用到去宁波上高中，期间上千单词的发音得到了巩固，也形成了错误的英语内语。上高中后，英语课上经常被老师纠音，却总改不过来，有时听不出自己的发音哪里不对劲，有时就算听出来了也不知道正确的音要怎么发。老师反复强调“背新概念或课文要先听磁带”，那时当英语是夜叉，心里一百个不情愿，就想着赶紧背完了事。就这样错过了最好的英语老师和最好的英语学习机会，后来偶尔说英语，因为不确定音到底怎么发，都不敢说出口。
 
@@ -122,9 +122,9 @@ McGurk Effect，一个感性的认知现象，表现在语音的感知过程中�
 
 更多阅读：
 
-*　[学美语（一） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-1/)
-*　[学美语（二） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-２/)
-*　[学美语（三） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-３/)
+* [学美语（一） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-1/)
+* [学美语（二） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-２/)
+* [学美语（三） - Koala工作室](https://matrixxt.com/blog/2017/04/03/learning-American-english-３/)
 
 ChangeLog
 
