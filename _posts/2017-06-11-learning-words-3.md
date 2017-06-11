@@ -8,7 +8,7 @@ description:
 ---
 
 * 目录
-  {:toc}
+{:toc}
 
 ## 5000词&名词
 
